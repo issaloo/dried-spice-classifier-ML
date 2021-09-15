@@ -11,7 +11,7 @@
 Dried and crushed Italian spices are difficult to differentiate. A spice mix-up would be disastrous for any recipe. An algorithm that can classify easily confused spices can prevent mishaps when following a recipe, especially for Italian recipes.
 
 ## Project Overview
-Dried spice classifiers were built using three types of machine learning models (CNN, SVM, Random Forest), modeling techniques, and image augmentation. The optimal individual classifier was Random Forest; however, an ensemble model (stacking) was utilized as the final dried spice classifer (for experimentation purposes). 
+Dried spice classifiers were built using three types of machine learning models (CNN, SVM, Random Forest), modeling techniques, and image augmentation. The optimal individual classifier was Random Forest; however, an ensemble model (stacking) was utilized as the final dried spice classifer (for experimentation purposes).
 
 
 ## Libraries and Dependencies
