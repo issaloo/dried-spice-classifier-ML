@@ -1,4 +1,4 @@
-# Dried Spice Classifier (Machine Learning Code)
+# Dried Spice Classifier (Machine Learning Side)
 
 * [Background](#background)
 * [Project Overview](#project-overview)
