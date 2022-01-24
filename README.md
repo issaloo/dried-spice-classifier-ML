@@ -61,7 +61,7 @@ The project workflow follows the programs listed below sequentially:
 ### Data Preparation
 - Feature Extraction (using CNN)
 - Image Augmentation (e.g., vertical flip, shear, brightness, scaling)
-- 
+
 ### Modeling
 - Test Train Split
 - Random Forest
