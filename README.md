@@ -52,9 +52,9 @@ The project workflow follows the programs listed below sequentially:
 | 1_Data_Collection.ipynb | dsfsd |
 | 2_Data_Exploratopm.ipynb | Understand image data, analyze RGB relationships, and visualize with graphs |
 | 3_Data_Augmentation.ipynb | Augment image data, specifically dried spice images |
-| 4_1_Modeling_CNN.ipynb | Fit and evaulate data with multiple CNN models and tune parameters to achieve the best CNN model |
-| 4_2_Modeling_SVM.ipynb | Fit and evaulate data with multiple SVM models and tune parameters to achieve the best SVM model |
-| 4_3_Modeling_RF.ipynb | Fit and evaulate data with multiple Random Forest models and tune parameters to achieve the best Random Forest model |
+| 4_1_Modeling_CNN.ipynb | Fit and evaluate data with multiple CNN models and tune parameters to achieve the best CNN model |
+| 4_2_Modeling_SVM.ipynb | Fit and evaluate data with multiple SVM models and tune parameters to achieve the best SVM model |
+| 4_3_Modeling_RF.ipynb | Fit and evaluate data with multiple Random Forest models and tune parameters to achieve the best Random Forest model |
 | 4_4_Modeling_Stacking.ipynb | Take best SVM, CNN, and Random Forest models, create an ensemble model using stacking, and build a pipeline from image input to prediction; Outputs: cnn_model.h5, feat_extract.h5,  rf_model.pkl, svm_model.pkl |
 
 ## Techniques
