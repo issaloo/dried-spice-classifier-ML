@@ -49,8 +49,8 @@ There are two dataset folders that contain datasets from raw to model-ready.
 The project workflow follows the programs listed below sequentially:
 | Programs | Description |
 | ----- | ----- |
-| 1_Data_Collection.ipynb | dsfsd |
-| 2_Data_Exploratopm.ipynb | Understand image data, analyze RGB relationships, and visualize with graphs |
+| 1_Data_Collection.ipynb | Collect image data from multiple sources |
+| 2_Data_Exploration.ipynb | Understand image data, analyze RGB relationships, and visualize with graphs |
 | 3_Data_Augmentation.ipynb | Augment image data, specifically dried spice images |
 | 4_1_Modeling_CNN.ipynb | Fit and evaluate data with multiple CNN models and tune parameters to achieve the best CNN model |
 | 4_2_Modeling_SVM.ipynb | Fit and evaluate data with multiple SVM models and tune parameters to achieve the best SVM model |
